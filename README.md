@@ -1,5 +1,7 @@
 # Pig
-Implementation of the classic Pig Dice Game
+An implementation of the classic Pig Dice Game
+
+Written as an exercise to dive into DOM manipulation using JavaScript
 
 Rules: 
 - The game is played in rounds between two players
