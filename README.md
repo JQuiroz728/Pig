@@ -1,8 +1,6 @@
 # Pig
 An implementation of the classic Pig Dice Game
 
-Written as an exercise to dive into DOM manipulation using JavaScript
-
 ![](pig-ss.png)
 
 Rules: 
