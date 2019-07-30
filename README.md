@@ -3,6 +3,8 @@ An implementation of the classic Pig Dice Game
 
 Written as an exercise to dive into DOM manipulation using JavaScript
 
+![](pig-ss.png)
+
 Rules: 
 - The game is played in rounds between two players
 - In each turn, a player rolls a dice as many times as desired. Each result gets added to a round score
